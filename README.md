@@ -5,4 +5,4 @@ Matlab code
 - 'redblue.m' = Creates a colormap in Matlab of red-white-blue
 
 Datasets
-- AVISO data used in code is big to add here, so check Matt's Google Drive link
+- AVISO data used in code is big to add here, so I've sent you OneDrive links to the data
